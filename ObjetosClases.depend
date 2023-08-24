@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692904498 source:c:\users\brian\downloads\programas\sem estructura datos\objetosclases\main.cpp
+	<conio.h>
+	<iostream>
+	<string>
+
